@@ -1,9 +1,7 @@
 const kickmenu = (prefix, pushname) => {
-    return `*Comando De Eliminar 📤*
+    return `*ELIMINAR PARTICIPANTE DEL GRUPO📤*
 
-_Para usar esta funcion el bot necesita admin_
-
-══════════════
+━━━━━━━━━━━━━━━━━━━━ 
 
 *COMANDO*
 
@@ -11,7 +9,7 @@ _Para usar esta funcion el bot necesita admin_
 
 Ejemplo: *kick @xxxxxx
 
-══════════════
+━━━━━━━━━━━━━━━━━━━━ 
 
 *⚠ADVERTENCIA⚠*
 
@@ -19,10 +17,9 @@ NUNCA COLOCAR MAS DE DOS PERSONAS PARA QUE LAS ELIMINE
 
 Ejemplo: *kick @xxxxxx @xxxxx
 
-Ya que el numero del bot se ira a soporte
-Quedas advertido :)
+Ya que el numero del bot se ira a soporte.
 
-ву ѕнαη∂υу`
+*BY.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽*`
 
 }
 
