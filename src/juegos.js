@@ -1,19 +1,19 @@
 const juegos = (prefix, pushname) => {
     return `
-*Comandos De Juegos 👾*
+*COMANDOS DE JUEGOS 👾*
  
 ${prefix}rankgay
-Conoce a el top de los mas gays del grupo
+Conoce a los mas gays del grupo😆
 
 ${prefix}gay
-Conoce que tan gay eres 😎
+Conoce que tan homosexual eres😂
 
 ${prefix}cuties
-Prueba tu suerte en el medidor de fan de cuties 😱
+Prueba tu suerte en el medidor de fan de cuties XD🌚
 
-_*En futuras versiones colocare mas juegos :)*_
+_*Más adelante más juegos UwU*_
      
-ву ѕнαη∂υу`
+By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽`
 
 }
 
