@@ -2,15 +2,12 @@ const kickmenu = (prefix, pushname) => {
     return `*ELIMINAR PARTICIPANTE DEL GRUPO📤*
 
 ━━━━━━━━━━━━━━━━━━━━ 
-
 *COMANDO*
 
 *kick + la personas que deseas eliminar
 
 Ejemplo: *kick @xxxxxx
-
 ━━━━━━━━━━━━━━━━━━━━ 
-
 *⚠ADVERTENCIA⚠*
 
 NUNCA COLOCAR MAS DE DOS PERSONAS PARA QUE LAS ELIMINE
