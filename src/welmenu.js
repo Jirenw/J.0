@@ -1,18 +1,16 @@
 const welmenu = (prefix, pushname) => {
     return `
-*Comandos De Bienvenida 👋*
+*COMANDO DE BIENVENIDA👋*
 
 *PARA ACTIVAR LA BIENVENIDA*
-
 - ${prefix}welcome 1
 
 *PARA DESACTIVAR LA BIENVENIDA*
-
 - ${prefix}welcome 0
 
-_Para activar este comando el bot necesita tener admin_
+_Para activar este comando el bot tiene que tener admin_
 
-ву ѕнαη∂υу
+*BY.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽*
 `
 
 }
