@@ -44,9 +44,9 @@ Boliviano
 Enano
 
 
-_*Ojito escribe tal y como esta en el mensaje*_
+_*Escribe tal y como está y no te quejes del Bot.*_
 
-ву ѕнαη∂υу`
+*BY.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽*`
 
 }
 
