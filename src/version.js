@@ -1,31 +1,23 @@
 const version = (prefix, pushname) => {
     return `
-*ѕнαηвσт ву ѕнαη∂υу*
+_「.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽」_
 
-*Actualizado:* 27 de Agosto del 2021
+*Actualizado:* 29 de Agosto del 2021
 *Versión actual:* 3.8
-*Ofrecida por:* ѕнαη∂υу™
-
+*Ofrecido por:*JIREN Y WENDY
 
 *INFORME*
 
-Si no funciona el comando *play o *play2 checa el blog del bot y mira la version que poses 
-Ya que ire cambiando mi apikey de mi bot para que siga en funcionamiento
-Cambiare la apikey pasando un mes o si veo muchos atercados o robos
-Si vez a alguien que robo mi bot comunicate conmigo con el comando *creador
+ELLA NO TE AMO/NO TE AMA/NI TE AMARA
 
+*COMO ACTUALIZAR*
 
-*COMO ACTUALIZAR EL BOT*
+Comuníquese con Jiren ._. <> http://wa.me/+524591347471
 
-https://cutt.ly/dWp5uqE
+BY.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽
 
-
-*SIGUEME EN INSTAGRAM 🥸🧉*
-
-https://www.instagram.com/thepavos
-
-
-ву ѕнαη∂υу
+*UNETE A NUESTRO GRUPO OFICIAL*
+https://bit.ly/3yt247X
 `
 
 }
